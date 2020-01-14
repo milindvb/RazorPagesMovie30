@@ -11,8 +11,6 @@ C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\Razo
 C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\RazorPagesMovie.Views.dll
 C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\RazorPagesMovie.Views.pdb
 C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\mbst\CaseFiles\dotnetcorerazor\RazorPagesMovie30\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
